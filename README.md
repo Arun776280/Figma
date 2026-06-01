@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:01.06.2026
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -935,13 +935,12 @@ video {
 *{
 	text-underline-offset: 0.134em;
 }
-
+```
 ## OUTPUT:
-![alt text](page1.png)
+![alt text](page1.png) 
 ![alt text](page2.png)
 ![alt text](page3.png)
 ![alt text](page4.png)
-
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
